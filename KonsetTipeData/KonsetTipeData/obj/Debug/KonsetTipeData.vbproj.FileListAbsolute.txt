@@ -1,0 +1,10 @@
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\bin\Debug\KonsetTipeData.exe
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\bin\Debug\KonsetTipeData.pdb
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\bin\Debug\KonsetTipeData.xml
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.Form1.resources
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.Resources.resources
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.vbproj.GenerateResource.Cache
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.exe
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.xml
+E:\Project VBNET\KonsetTipeData\KonsetTipeData\obj\Debug\KonsetTipeData.pdb

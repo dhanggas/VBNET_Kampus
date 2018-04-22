@@ -1,0 +1,10 @@
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\bin\Debug\KonsepAlgoritma.exe
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\bin\Debug\KonsepAlgoritma.pdb
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\bin\Debug\KonsepAlgoritma.xml
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.Form1.resources
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.Resources.resources
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.vbproj.GenerateResource.Cache
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.exe
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.xml
+E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.pdb

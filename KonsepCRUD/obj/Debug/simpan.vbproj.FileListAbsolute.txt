@@ -1,0 +1,10 @@
+E:\1.dhiskar\vbNet\AppSimpan\simpan\bin\Debug\simpan.exe
+E:\1.dhiskar\vbNet\AppSimpan\simpan\bin\Debug\simpan.pdb
+E:\1.dhiskar\vbNet\AppSimpan\simpan\bin\Debug\simpan.xml
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\ResolveAssemblyReference.cache
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.Form1.resources
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.Resources.resources
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.vbproj.GenerateResource.Cache
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.exe
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.xml
+E:\1.dhiskar\vbNet\AppSimpan\simpan\obj\Debug\simpan.pdb
