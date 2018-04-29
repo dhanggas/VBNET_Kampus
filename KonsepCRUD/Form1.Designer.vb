@@ -40,13 +40,14 @@ Partial Class Form1
         Me.btnDelete = New System.Windows.Forms.Button
         Me.btnCancel = New System.Windows.Forms.Button
         Me.btnExit = New System.Windows.Forms.Button
+        Me.Label6 = New System.Windows.Forms.Label
         CType(Me.grdMahasiswa, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(29, 25)
+        Me.Label1.Location = New System.Drawing.Point(58, 69)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(27, 13)
         Me.Label1.TabIndex = 0
@@ -55,7 +56,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(29, 59)
+        Me.Label2.Location = New System.Drawing.Point(58, 103)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(38, 13)
         Me.Label2.TabIndex = 1
@@ -64,7 +65,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(29, 96)
+        Me.Label3.Location = New System.Drawing.Point(58, 140)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(50, 13)
         Me.Label3.TabIndex = 2
@@ -73,7 +74,7 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(29, 134)
+        Me.Label4.Location = New System.Drawing.Point(58, 178)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(58, 13)
         Me.Label4.TabIndex = 3
@@ -82,7 +83,7 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(29, 174)
+        Me.Label5.Location = New System.Drawing.Point(58, 218)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(49, 13)
         Me.Label5.TabIndex = 4
@@ -90,35 +91,35 @@ Partial Class Form1
         '
         'txtNim
         '
-        Me.txtNim.Location = New System.Drawing.Point(94, 25)
+        Me.txtNim.Location = New System.Drawing.Point(123, 69)
         Me.txtNim.Name = "txtNim"
         Me.txtNim.Size = New System.Drawing.Size(145, 20)
         Me.txtNim.TabIndex = 5
         '
         'txtNama
         '
-        Me.txtNama.Location = New System.Drawing.Point(94, 56)
+        Me.txtNama.Location = New System.Drawing.Point(123, 100)
         Me.txtNama.Name = "txtNama"
         Me.txtNama.Size = New System.Drawing.Size(220, 20)
         Me.txtNama.TabIndex = 6
         '
         'txtAlamat
         '
-        Me.txtAlamat.Location = New System.Drawing.Point(94, 89)
+        Me.txtAlamat.Location = New System.Drawing.Point(123, 133)
         Me.txtAlamat.Name = "txtAlamat"
         Me.txtAlamat.Size = New System.Drawing.Size(220, 20)
         Me.txtAlamat.TabIndex = 7
         '
         'txtJurusan
         '
-        Me.txtJurusan.Location = New System.Drawing.Point(94, 127)
+        Me.txtJurusan.Location = New System.Drawing.Point(123, 171)
         Me.txtJurusan.Name = "txtJurusan"
         Me.txtJurusan.Size = New System.Drawing.Size(220, 20)
         Me.txtJurusan.TabIndex = 8
         '
         'txtTelpon
         '
-        Me.txtTelpon.Location = New System.Drawing.Point(94, 167)
+        Me.txtTelpon.Location = New System.Drawing.Point(123, 211)
         Me.txtTelpon.Name = "txtTelpon"
         Me.txtTelpon.Size = New System.Drawing.Size(145, 20)
         Me.txtTelpon.TabIndex = 9
@@ -126,14 +127,14 @@ Partial Class Form1
         'grdMahasiswa
         '
         Me.grdMahasiswa.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdMahasiswa.Location = New System.Drawing.Point(32, 257)
+        Me.grdMahasiswa.Location = New System.Drawing.Point(61, 301)
         Me.grdMahasiswa.Name = "grdMahasiswa"
         Me.grdMahasiswa.Size = New System.Drawing.Size(379, 187)
         Me.grdMahasiswa.TabIndex = 10
         '
         'btnAdd
         '
-        Me.btnAdd.Location = New System.Drawing.Point(113, 205)
+        Me.btnAdd.Location = New System.Drawing.Point(142, 249)
         Me.btnAdd.Name = "btnAdd"
         Me.btnAdd.Size = New System.Drawing.Size(75, 23)
         Me.btnAdd.TabIndex = 11
@@ -142,7 +143,7 @@ Partial Class Form1
         '
         'btnEdit
         '
-        Me.btnEdit.Location = New System.Drawing.Point(195, 205)
+        Me.btnEdit.Location = New System.Drawing.Point(224, 249)
         Me.btnEdit.Name = "btnEdit"
         Me.btnEdit.Size = New System.Drawing.Size(75, 23)
         Me.btnEdit.TabIndex = 12
@@ -151,7 +152,7 @@ Partial Class Form1
         '
         'btnSave
         '
-        Me.btnSave.Location = New System.Drawing.Point(276, 205)
+        Me.btnSave.Location = New System.Drawing.Point(305, 249)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(75, 23)
         Me.btnSave.TabIndex = 13
@@ -160,7 +161,7 @@ Partial Class Form1
         '
         'btnLaporan
         '
-        Me.btnLaporan.Location = New System.Drawing.Point(32, 228)
+        Me.btnLaporan.Location = New System.Drawing.Point(61, 272)
         Me.btnLaporan.Name = "btnLaporan"
         Me.btnLaporan.Size = New System.Drawing.Size(75, 23)
         Me.btnLaporan.TabIndex = 14
@@ -169,7 +170,7 @@ Partial Class Form1
         '
         'btnDelete
         '
-        Me.btnDelete.Location = New System.Drawing.Point(113, 228)
+        Me.btnDelete.Location = New System.Drawing.Point(142, 272)
         Me.btnDelete.Name = "btnDelete"
         Me.btnDelete.Size = New System.Drawing.Size(75, 23)
         Me.btnDelete.TabIndex = 15
@@ -178,7 +179,7 @@ Partial Class Form1
         '
         'btnCancel
         '
-        Me.btnCancel.Location = New System.Drawing.Point(195, 228)
+        Me.btnCancel.Location = New System.Drawing.Point(224, 272)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(75, 23)
         Me.btnCancel.TabIndex = 16
@@ -187,18 +188,28 @@ Partial Class Form1
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(276, 228)
+        Me.btnExit.Location = New System.Drawing.Point(305, 272)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 17
         Me.btnExit.Text = "EXIT"
         Me.btnExit.UseVisualStyleBackColor = True
         '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(139, 33)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(141, 13)
+        Me.Label6.TabIndex = 18
+        Me.Label6.Text = "INPUT DATA MAHASISWA"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(453, 456)
+        Me.ClientSize = New System.Drawing.Size(494, 529)
+        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnCancel)
         Me.Controls.Add(Me.btnDelete)
@@ -242,5 +253,6 @@ Partial Class Form1
     Friend WithEvents btnDelete As System.Windows.Forms.Button
     Friend WithEvents btnCancel As System.Windows.Forms.Button
     Friend WithEvents btnExit As System.Windows.Forms.Button
+    Friend WithEvents Label6 As System.Windows.Forms.Label
 
 End Class
