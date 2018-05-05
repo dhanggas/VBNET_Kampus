@@ -8,3 +8,6 @@ E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.vbpro
 E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.exe
 E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.xml
 E:\Project VBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.pdb
+E:\ProjectVBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.exe
+E:\ProjectVBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.xml
+E:\ProjectVBNET\KonsepAlgoritma\KonsepAlgoritma\obj\Debug\KonsepAlgoritma.pdb

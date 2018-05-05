@@ -1,0 +1,10 @@
+E:\Project VBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.exe
+E:\Project VBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.pdb
+E:\Project VBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.xml
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.Form1.resources
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.Resources.resources
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.vbproj.GenerateResource.Cache
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.exe
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.xml
+E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.pdb

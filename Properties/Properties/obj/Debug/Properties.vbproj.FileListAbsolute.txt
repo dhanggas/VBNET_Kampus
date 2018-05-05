@@ -1,0 +1,10 @@
+E:\Project VBNET\Properties\Properties\bin\Debug\Properties.exe
+E:\Project VBNET\Properties\Properties\bin\Debug\Properties.pdb
+E:\Project VBNET\Properties\Properties\bin\Debug\Properties.xml
+E:\Project VBNET\Properties\Properties\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.Form1.resources
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.Resources.resources
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.vbproj.GenerateResource.Cache
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.exe
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.xml
+E:\Project VBNET\Properties\Properties\obj\Debug\Properties.pdb

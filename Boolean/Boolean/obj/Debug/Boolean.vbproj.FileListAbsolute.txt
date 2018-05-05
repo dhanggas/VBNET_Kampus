@@ -1,0 +1,10 @@
+E:\Project VBNET\Boolean\Boolean\bin\Debug\Boolean.exe
+E:\Project VBNET\Boolean\Boolean\bin\Debug\Boolean.pdb
+E:\Project VBNET\Boolean\Boolean\bin\Debug\Boolean.xml
+E:\Project VBNET\Boolean\Boolean\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.Form1.resources
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.Resources.resources
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.vbproj.GenerateResource.Cache
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.exe
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.xml
+E:\Project VBNET\Boolean\Boolean\obj\Debug\Boolean.pdb
