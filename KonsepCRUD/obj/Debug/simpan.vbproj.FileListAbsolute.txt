@@ -18,3 +18,4 @@ E:\ProjectVBNET\KonsepCRUD\obj\Debug\ResolveAssemblyReference.cache
 E:\ProjectVBNET\KonsepCRUD\obj\Debug\simpan.Form1.resources
 E:\ProjectVBNET\KonsepCRUD\obj\Debug\simpan.Resources.resources
 E:\ProjectVBNET\KonsepCRUD\obj\Debug\simpan.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\KonsepCRUD\obj\Debug\simpan.Form2.resources
