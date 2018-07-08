@@ -148,4 +148,6 @@ Public Class Form1
     Private Sub btnLaporan_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLaporan.Click
         Form2.Show()
     End Sub
+
+
 End Class
