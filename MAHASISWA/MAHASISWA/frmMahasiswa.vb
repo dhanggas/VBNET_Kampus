@@ -10,8 +10,8 @@ Public Class frmMahasiswa
     Private objDataset As DataSet
     Private myCon As OleDbConnection
     Private objCommand As OleDbCommand
-    'Private Const strCon As String = "Provider=Microsoft.Jet.OLEDB.4.0; Data Source=C:\Try\MAHASISWA\Mahasiswa.mdb;"
-    Private Const strCon As String = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\DataMs.accdb"
+    Private Const strCon As String = "Provider=Microsoft.Jet.OLEDB.4.0; Data Source=E:\ProjectVBNET\MAHASISWA\MAHASISWA\Mahasiswa.mdb;"
+    'Private Const strCon As String = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=E:\ProjectVBNET\MAHASISWA\MAHASISWA\DataMs.accdb"
 
     Private Sub LockText()
         txtNim.ReadOnly = True
@@ -245,4 +245,7 @@ Public Class frmMahasiswa
         End Try
     End Sub
 
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        frmLaporan.Show()
+    End Sub
 End Class

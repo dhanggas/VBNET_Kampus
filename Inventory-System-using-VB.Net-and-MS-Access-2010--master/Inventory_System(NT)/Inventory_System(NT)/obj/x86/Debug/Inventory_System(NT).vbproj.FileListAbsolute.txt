@@ -1,0 +1,322 @@
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\LOGIN.accdb
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\LOGIN.accdb
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\LOGIN.accdb
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\2\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+E:\PROJECT\November 23rd\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+C:\Users\SHARKISTHA\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+E:\PROJECT\November 26th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+E:\PROJECT\December 4th\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.dll
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.pdb
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.xml
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+E:\PROJECT\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetails.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StoreDetails.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.SupplierDetails.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StockDetails.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.BranchDetails.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetailsStock.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutDeveloper.resources
+E:\PROJECT\2015\Jan 7th\1\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+E:\PROJECT\2015\Jan 7th\1\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+E:\PROJECT\2015\Jan 7th\1\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+E:\PROJECT\2015\Jan 7th\1\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutDeveloper.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.BranchDetails.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetailsStock.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StockDetails.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.SupplierDetails.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetails.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StoreDetails.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ReportForm.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).application
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).application
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).application
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutDeveloper.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.BranchDetails.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetailsStock.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ReportForm.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StockDetails.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.SupplierDetails.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetails.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StoreDetails.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).application
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\LOGIN.accdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\STOCK.accdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\STORE.accdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\LOGIN.accdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\STOCK.accdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Database\STORE.accdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).application
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\bin\x86\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutDeveloper.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.AboutSoftware.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.BranchDetails.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetailsStock.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.ReportForm.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StockDetails.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.SupplierDetails.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.CustomerDetails.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.StoreDetails.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System_NT_.Settings.resources
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).exe.manifest
+C:\Users\Tops Pun\Desktop\Inventory_System(NT)\Inventory_System(NT)\obj\x86\Debug\Inventory_System(NT).application

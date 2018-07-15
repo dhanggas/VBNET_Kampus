@@ -33,15 +33,15 @@ Partial Class frmLaporan
         Me.CrystalReportViewer1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CrystalReportViewer1.Location = New System.Drawing.Point(0, 0)
         Me.CrystalReportViewer1.Name = "CrystalReportViewer1"
-        Me.CrystalReportViewer1.ReportSource = Me.LaporanMahasiswa1
-        Me.CrystalReportViewer1.Size = New System.Drawing.Size(736, 345)
+        Me.CrystalReportViewer1.ReportSource = "E:\ProjectVBNET\MAHASISWA\MAHASISWA\LaporanMahasiswa.rpt"
+        Me.CrystalReportViewer1.Size = New System.Drawing.Size(1185, 650)
         Me.CrystalReportViewer1.TabIndex = 0
         '
         'frmLaporan
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(736, 345)
+        Me.ClientSize = New System.Drawing.Size(1185, 650)
         Me.Controls.Add(Me.CrystalReportViewer1)
         Me.Name = "frmLaporan"
         Me.Text = "frmLaporan"

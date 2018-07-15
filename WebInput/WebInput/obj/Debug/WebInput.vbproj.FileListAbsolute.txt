@@ -7,3 +7,12 @@ E:\Project VBNET\WebInput\WebInput\obj\Debug\WebInput.vbproj.GenerateResource.Ca
 E:\Project VBNET\WebInput\WebInput\obj\Debug\WebInput.dll
 E:\Project VBNET\WebInput\WebInput\obj\Debug\WebInput.xml
 E:\Project VBNET\WebInput\WebInput\obj\Debug\WebInput.pdb
+E:\ProjectVBNET\WebInput\WebInput\bin\WebInput.dll
+E:\ProjectVBNET\WebInput\WebInput\bin\WebInput.pdb
+E:\ProjectVBNET\WebInput\WebInput\bin\WebInput.xml
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\WebInput.Resources.resources
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\WebInput.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\WebInput.dll
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\WebInput.xml
+E:\ProjectVBNET\WebInput\WebInput\obj\Debug\WebInput.pdb

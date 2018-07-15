@@ -1,0 +1,59 @@
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Resources.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.QuantityOnStoreDetailsControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.CustomerDetailsControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.SupplierDetailsControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.QuantityOnStockDetailsControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.BranchDetailsControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.CustomerDetailsStockControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Resources.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ReportForm.resources
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\RdlCompile.cache
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\RdlCompile.compiled
+C:\Users\Tops Pun\Documents\NT_LATEST\3\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.pdb
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\bin\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ReportForm.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Resources.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.Sales_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\RdlCompile.cache
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\RdlCompile.compiled
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.dll
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.xml
+C:\Users\Tops Pun\Documents\Inventory_System(NT)\IS_NTC_ControlLibrary\obj\Debug\IS_NTC_ControlLibrary.pdb

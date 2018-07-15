@@ -1,0 +1,56 @@
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe.config
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).exe
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).xml
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).pdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe.config
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).exe
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).xml
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).pdb
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).pdb
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).xml
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.MainForm.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.LoginForm.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Resources.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+G:\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe.config
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).exe
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).pdb
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\Inventory_System(NT).xml
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Branch_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Capitalized_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Expense_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemEntranceFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemReceivedFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.ItemSalesFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.MainForm.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.LoginForm.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Resources.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System_NT_.Sales_IssuerFormControl.resources
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\obj\Debug\Inventory_System(NT).vbproj.GenerateResource.Cache
+C:\Users\SHARKISTHA\Desktop\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\LOGIN.accdb
+C:\Users\Tops Pun\Documents\Nepal Telecom\Inventory_System(NT)\Inventory_System(NT)\bin\Debug\LOGIN.accdb

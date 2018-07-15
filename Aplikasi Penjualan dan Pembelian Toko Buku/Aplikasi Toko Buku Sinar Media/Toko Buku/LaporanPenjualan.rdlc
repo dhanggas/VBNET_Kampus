@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DbTokoBukuConnectionString">
+      <rd:DataSourceID>5b2fb847-2405-4d69-8890-9e8bc24ca507</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>
+        </DataProvider>
+        <ConnectString>
+        </ConnectString>
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <rd:ReportID>69b5dfbf-d369-4bc9-8ac4-41e25a16acb5</rd:ReportID>
+  <Width>12.69841cm</Width>
+  <Body>
+    <Height>8.38095cm</Height>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Textbox Name="textbox1">
+        <Style>
+          <FontFamily>Verdana</FontFamily>
+          <FontSize>16pt</FontSize>
+          <Color>DarkRed</Color>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <rd:DefaultName>textbox1</rd:DefaultName>
+        <Value>LaporanPenjualan</Value>
+        <CanGrow>true</CanGrow>
+        <Height>0.76190cm</Height>
+      </Textbox>
+      <List Name="List1">
+        <Style>
+          <FontFamily>Verdana</FontFamily>
+          <FontSize>14pt</FontSize>
+        </Style>
+        <ReportItems>
+          <Textbox Name="Kd_Pembelian">
+            <Style>
+              <FontFamily>Verdana</FontFamily>
+              <FontSize>14pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <rd:DefaultName>Kd_Pembelian</rd:DefaultName>
+            <Value>=Fields!Kd_Pembelian.Value</Value>
+            <CanGrow>true</CanGrow>
+            <Height>0.68571cm</Height>
+          </Textbox>
+          <List Name="List2">
+            <Style>
+              <FontFamily>Verdana</FontFamily>
+              <FontSize>12pt</FontSize>
+            </Style>
+            <ReportItems>
+              <Textbox Name="Tgl_Pembelian">
+                <Style>
+                  <FontFamily>Verdana</FontFamily>
+                  <FontSize>12pt</FontSize>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+                <rd:DefaultName>Tgl_Pembelian</rd:DefaultName>
+                <Value>=Fields!Tgl_Pembelian.Value</Value>
+                <CanGrow>true</CanGrow>
+                <Height>0.60952cm</Height>
+              </Textbox>
+              <List Name="List3">
+                <Style>
+                  <FontFamily>Verdana</FontFamily>
+                  <FontSize>10pt</FontSize>
+                </Style>
+                <ReportItems>
+                  <Textbox Name="Kd_Suplier">
+                    <Style>
+                      <FontFamily>Verdana</FontFamily>
+                      <FontSize>10pt</FontSize>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                    <rd:DefaultName>Kd_Suplier</rd:DefaultName>
+                    <Value>=Fields!Kd_Suplier.Value</Value>
+                    <CanGrow>true</CanGrow>
+                    <Height>0.53333cm</Height>
+                  </Textbox>
+                  <List Name="List4">
+                    <Style>
+                      <FontFamily>Verdana</FontFamily>
+                      <FontSize>10pt</FontSize>
+                    </Style>
+                    <ReportItems>
+                      <Textbox Name="Total">
+                        <Style>
+                          <FontFamily>Verdana</FontFamily>
+                          <FontSize>10pt</FontSize>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                        </Style>
+                        <rd:DefaultName>Total</rd:DefaultName>
+                        <Value>=Fields!Total.Value</Value>
+                        <CanGrow>true</CanGrow>
+                        <Height>0.53333cm</Height>
+                      </Textbox>
+                      <List Name="List5">
+                        <Style>
+                          <FontFamily>Verdana</FontFamily>
+                          <FontSize>10pt</FontSize>
+                        </Style>
+                        <ReportItems>
+                          <Textbox Name="Potongan">
+                            <Style>
+                              <FontFamily>Verdana</FontFamily>
+                              <FontSize>10pt</FontSize>
+                              <PaddingLeft>2pt</PaddingLeft>
+                              <PaddingRight>2pt</PaddingRight>
+                              <PaddingTop>2pt</PaddingTop>
+                              <PaddingBottom>2pt</PaddingBottom>
+                            </Style>
+                            <rd:DefaultName>Potongan</rd:DefaultName>
+                            <Value>=Fields!Potongan.Value</Value>
+                            <CanGrow>true</CanGrow>
+                            <Height>0.53333cm</Height>
+                          </Textbox>
+                          <List Name="List6">
+                            <Style>
+                              <FontFamily>Verdana</FontFamily>
+                              <FontSize>10pt</FontSize>
+                            </Style>
+                            <ReportItems>
+                              <Textbox Name="Grand_Total">
+                                <Style>
+                                  <FontFamily>Verdana</FontFamily>
+                                  <FontSize>10pt</FontSize>
+                                  <PaddingLeft>2pt</PaddingLeft>
+                                  <PaddingRight>2pt</PaddingRight>
+                                  <PaddingTop>2pt</PaddingTop>
+                                  <PaddingBottom>2pt</PaddingBottom>
+                                </Style>
+                                <rd:DefaultName>Grand_Total</rd:DefaultName>
+                                <Value>=Fields!Grand_Total.Value</Value>
+                                <CanGrow>true</CanGrow>
+                                <Height>0.53333cm</Height>
+                              </Textbox>
+                              <Table Name="table1">
+                                <Top>1.26984cm</Top>
+                                <Style />
+                                <Header>
+                                  <RepeatOnNewPage>true</RepeatOnNewPage>
+                                  <TableRows>
+                                    <TableRow>
+                                      <TableCells />
+                                      <Height>0.00000cm</Height>
+                                    </TableRow>
+                                  </TableRows>
+                                </Header>
+                                <Details>
+                                  <TableRows>
+                                    <TableRow>
+                                      <TableCells />
+                                      <Height>0.00000cm</Height>
+                                    </TableRow>
+                                  </TableRows>
+                                </Details>
+                                <TableColumns />
+                                <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+                              </Table>
+                            </ReportItems>
+                            <Grouping Name="list1_Grand_Total">
+                              <GroupExpressions>
+                                <GroupExpression>=Fields!Grand_Total.Value</GroupExpression>
+                              </GroupExpressions>
+                              <PageBreakAtEnd>true</PageBreakAtEnd>
+                            </Grouping>
+                            <Sorting>
+                              <SortBy>
+                                <SortExpression>=Fields!Grand_Total.Value</SortExpression>
+                              </SortBy>
+                            </Sorting>
+                            <Top>1.26984cm</Top>
+                            <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+                          </List>
+                        </ReportItems>
+                        <Grouping Name="list1_Potongan">
+                          <GroupExpressions>
+                            <GroupExpression>=Fields!Potongan.Value</GroupExpression>
+                          </GroupExpressions>
+                          <PageBreakAtEnd>true</PageBreakAtEnd>
+                        </Grouping>
+                        <Sorting>
+                          <SortBy>
+                            <SortExpression>=Fields!Potongan.Value</SortExpression>
+                          </SortBy>
+                        </Sorting>
+                        <Top>1.26984cm</Top>
+                        <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+                      </List>
+                    </ReportItems>
+                    <Grouping Name="list1_Total">
+                      <GroupExpressions>
+                        <GroupExpression>=Fields!Total.Value</GroupExpression>
+                      </GroupExpressions>
+                      <PageBreakAtEnd>true</PageBreakAtEnd>
+                    </Grouping>
+                    <Sorting>
+                      <SortBy>
+                        <SortExpression>=Fields!Total.Value</SortExpression>
+                      </SortBy>
+                    </Sorting>
+                    <Top>1.26984cm</Top>
+                    <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+                  </List>
+                </ReportItems>
+                <Grouping Name="list1_Kd_Suplier">
+                  <GroupExpressions>
+                    <GroupExpression>=Fields!Kd_Suplier.Value</GroupExpression>
+                  </GroupExpressions>
+                  <PageBreakAtEnd>true</PageBreakAtEnd>
+                </Grouping>
+                <Sorting>
+                  <SortBy>
+                    <SortExpression>=Fields!Kd_Suplier.Value</SortExpression>
+                  </SortBy>
+                </Sorting>
+                <Top>1.26984cm</Top>
+                <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+              </List>
+            </ReportItems>
+            <Grouping Name="list1_Tgl_Pembelian">
+              <GroupExpressions>
+                <GroupExpression>=Fields!Tgl_Pembelian.Value</GroupExpression>
+              </GroupExpressions>
+              <PageBreakAtEnd>true</PageBreakAtEnd>
+            </Grouping>
+            <Sorting>
+              <SortBy>
+                <SortExpression>=Fields!Tgl_Pembelian.Value</SortExpression>
+              </SortBy>
+            </Sorting>
+            <Top>1.26984cm</Top>
+            <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+          </List>
+        </ReportItems>
+        <Grouping Name="list1_Kd_Pembelian">
+          <GroupExpressions>
+            <GroupExpression>=Fields!Kd_Pembelian.Value</GroupExpression>
+          </GroupExpressions>
+          <PageBreakAtEnd>true</PageBreakAtEnd>
+        </Grouping>
+        <Sorting>
+          <SortBy>
+            <SortExpression>=Fields!Kd_Pembelian.Value</SortExpression>
+          </SortBy>
+        </Sorting>
+        <Top>0.76190cm</Top>
+        <DataSetName>DbTokoBukuDataSet_T_PEMBELIAN</DataSetName>
+      </List>
+    </ReportItems>
+  </Body>
+  <Language>en-US</Language>
+  <LeftMargin>2.5cm</LeftMargin>
+  <RightMargin>2.5cm</RightMargin>
+  <TopMargin>2.5cm</TopMargin>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <PageWidth>21cm</PageWidth>
+  <PageHeight>29.7cm</PageHeight>
+  <DataSets>
+    <DataSet Name="DbTokoBukuDataSet_T_PEMBELIAN">
+      <rd:DataSetInfo>
+        <rd:DataSetName>DbTokoBukuDataSet</rd:DataSetName>
+        <rd:TableName>T_PEMBELIAN</rd:TableName>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterName>T_PEMBELIANTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+      <Query>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Kd_Pembelian, Tgl_Pembelian, Kd_Suplier, Total, Potongan, Grand_Total FROM dbo.T_PEMBELIAN</CommandText>
+        <DataSourceName>DbTokoBukuConnectionString</DataSourceName>
+      </Query>
+      <Fields>
+        <Field Name="Kd_Pembelian">
+          <DataField>Kd_Pembelian</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tgl_Pembelian">
+          <DataField>Tgl_Pembelian</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Kd_Suplier">
+          <DataField>Kd_Suplier</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Total">
+          <DataField>Total</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Potongan">
+          <DataField>Potongan</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Grand_Total">
+          <DataField>Grand_Total</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+</Report>

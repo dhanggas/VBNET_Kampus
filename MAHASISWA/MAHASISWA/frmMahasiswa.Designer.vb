@@ -75,7 +75,7 @@ Partial Class frmMahasiswa
         Me.Label5.Font = New System.Drawing.Font("Trebuchet MS", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(18, 74)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(65, 22)
+        Me.Label5.Size = New System.Drawing.Size(63, 22)
         Me.Label5.TabIndex = 51
         Me.Label5.Text = "ALAMAT"
         '

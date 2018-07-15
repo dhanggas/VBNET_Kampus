@@ -29,17 +29,33 @@
                     <tr>
                         <td style="width:100px; margin:auto">NAMA</td>
                         <td style="width:20px; margin:auto">:</td>
-                        <td style="width:500px; margin:auto"><asp:TextBox ID="TextBox1" runat="server"></asp:TextBox></td>
+                        <td style="width:500px; margin:auto"><asp:TextBox ID="txtNama" runat="server"></asp:TextBox></td>
+                    </tr>
+                    <tr>
+                        <td style="width:100px; margin:auto">ALAMAT</td>
+                        <td style="width:20px; margin:auto">:</td>
+                        <td style="width:500px; margin:auto"><asp:TextBox ID="txtAlamat" runat="server"></asp:TextBox></td>
                     </tr>
                     <tr>
                         <td style="width:100px; margin:auto">JURUSAN</td>
                         <td style="width:20px; margin:auto">:</td>
-                        <td style="width:500px; margin:auto"><asp:TextBox ID="TextBox2" runat="server"></asp:TextBox></td>
+                        <td style="width:500px; margin:auto"><asp:TextBox ID="txtJurusan" runat="server"></asp:TextBox></td>
                     </tr>
                     <tr>
-                        <td style="width:100px; margin:auto">KELAS</td>
+                        <td style="width:100px; margin:auto">TELPON</td>
                         <td style="width:20px; margin:auto">:</td>
-                        <td style="width:500px; margin:auto"><asp:TextBox ID="TextBox3" runat="server"></asp:TextBox></td>
+                        <td style="width:500px; margin:auto"><asp:TextBox ID="txtTelpon" runat="server"></asp:TextBox></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">&nbsp</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <asp:Button ID="btnSave" runat="server" Text="Save" />
+                            <asp:Button ID="btnUpdate" runat="server" Text="Update" />
+                            <asp:Button ID="btnDelete" runat="server" Text="Delete" />
+                            <asp:Button ID="btnReset" runat="server" Text="Reset" />
+                        </td>
                     </tr>
                 </table>
                 </div>

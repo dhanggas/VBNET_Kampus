@@ -1,0 +1,85 @@
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\bin\Debug\Toko Buku.pdb
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\bin\Debug\Toko Buku.xml
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\ResolveAssemblyReference.cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormUtama.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.Resources.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko Buku.vbproj.GenerateResource.Cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko Buku.exe
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko Buku.xml
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko Buku.pdb
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormMasterKatagori.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormCariKatagori.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormMasterBarang.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormCariBarang.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormCariSupplier.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormMasterSupplier.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormMasterUser.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.FormLogin.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe.config
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.LaporanPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\RdlCompile.cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\RdlCompile.compiled
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.LaporanPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\bin\Debug\Toko Buku.exe.config
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko Buku.exe
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko Buku.xml
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko Buku.pdb
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\bin\Debug\Toko Buku.exe
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\bin\Debug\Toko Buku.pdb
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\bin\Debug\Toko Buku.xml
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\ResolveAssemblyReference.cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormUtama.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariBarang.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariKatagori.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariSupplier.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterBarang.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterKatagori.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterSupplier.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormLogin.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterUser.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.LaporanPembelian.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.LaporanPenjualan.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.Resources.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko Buku.vbproj.GenerateResource.Cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\RdlCompile.cache
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\RdlCompile.compiled
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.SplashScreen.resources
+E:\My Files\Folder Kuliah Sistem Komputer\Semester 6\Analisa Desain II\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku SInar Media\Toko Buku\obj\Debug\Toko_Buku.FormNota.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\bin\Debug\Toko Buku.exe.config
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko Buku.exe
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko Buku.xml
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko Buku.pdb
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\bin\Debug\Toko Buku.exe
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\bin\Debug\Toko Buku.pdb
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\bin\Debug\Toko Buku.xml
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPembelian.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.CariLaporanPenjualan.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormNota.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormUtama.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariBarang.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariKatagori.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormCariSupplier.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterBarang.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterKatagori.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterSupplier.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormLogin.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormMasterUser.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPembelian.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.FormTransaksiPenjualan.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.LaporanPembelian.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.LaporanPenjualan.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.Resources.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko_Buku.SplashScreen.resources
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\Toko Buku.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\RdlCompile.cache
+E:\ProjectVBNET\Aplikasi Penjualan dan Pembelian Toko Buku\Aplikasi Toko Buku Sinar Media\Toko Buku\obj\Debug\RdlCompile.compiled
