@@ -1,0 +1,214 @@
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\AppData\Local\Temporary Projects\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban Nurabendi\documents\visual studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+C:\Users\Iban Nurabendi\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+C:\Users\Iban\Music\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban\Music\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban\Music\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban\Music\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+C:\Users\Iban Nurabendi\Documents\Visual Studio 2010\Projects\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+C:\Users\Iban Nurabendi\Documents\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PrintSiswa.resources
+D:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+D:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+D:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+D:\Users\Iban Nurabendi\Downloads\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+F:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PrintSiswa.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PrintSiswa.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+D:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.exe
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.pdb
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.xml
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PrintSiswa.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.exe.manifest
+C:\Users\Iban\Pictures\Tabungan\Tabungan\bin\Debug\Tabungan.application
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe.manifest
+C:\Users\Iban\Pictures\Tabungan\Tabungan\obj\x86\Debug\Tabungan.application
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbprojResolveAssemblyReference.cache
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_CariSiswa.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_LihatPengguna.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Login.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_MenuUtama.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_DataSiswa.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Pengambilan.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PenggunaControl.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_PrintSiswa.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportAmbilDate.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_ReportSetorDate.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_Setoran.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.f_TambahPengguna.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.Resources.resources
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\Tabungan.vbproj.GenerateResource.Cache
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.cache
+E:\SOFTWARE\PLANNING APPS\Tabungan\Tabungan\obj\x86\Debug\RdlCompile.compiled
+E:\ProjectVBNET\Tabungan\Tabungan\bin\Debug\Tabungan.exe.config
+E:\ProjectVBNET\Tabungan\Tabungan\obj\x86\Debug\Tabungan.exe
+E:\ProjectVBNET\Tabungan\Tabungan\obj\x86\Debug\Tabungan.xml
+E:\ProjectVBNET\Tabungan\Tabungan\obj\x86\Debug\Tabungan.pdb

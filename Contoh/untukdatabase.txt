@@ -1,0 +1,2 @@
+untuk file database acces nya bisa di temukan di folder
+contoh app db acces\contoh app db acces\bin\Debug

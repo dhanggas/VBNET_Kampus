@@ -1,0 +1,11 @@
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\bin\Debug\contoh app db acces.exe
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\bin\Debug\contoh app db acces.pdb
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\bin\Debug\contoh app db acces.xml
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\contoh_app_db_acces.Form1.resources
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\contoh_app_db_acces.Resources.resources
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\contoh app db acces.exe
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\contoh app db acces.xml
+D:\belajar\semeste 5\visual studio 2010\tutorial\contoh project\contoh app db acces\contoh app db acces\obj\x86\Debug\contoh app db acces.pdb

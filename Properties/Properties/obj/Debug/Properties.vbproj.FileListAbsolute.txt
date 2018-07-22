@@ -8,3 +8,6 @@ E:\Project VBNET\Properties\Properties\obj\Debug\Properties.vbproj.GenerateResou
 E:\Project VBNET\Properties\Properties\obj\Debug\Properties.exe
 E:\Project VBNET\Properties\Properties\obj\Debug\Properties.xml
 E:\Project VBNET\Properties\Properties\obj\Debug\Properties.pdb
+E:\ProjectVBNET\Properties\Properties\obj\Debug\Properties.exe
+E:\ProjectVBNET\Properties\Properties\obj\Debug\Properties.xml
+E:\ProjectVBNET\Properties\Properties\obj\Debug\Properties.pdb

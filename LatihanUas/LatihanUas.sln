@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LatihanUas", "LatihanUas.vbproj", "{BFCFA0DE-350B-4FFD-88E7-623E87FAEF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCFA0DE-350B-4FFD-88E7-623E87FAEF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCFA0DE-350B-4FFD-88E7-623E87FAEF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCFA0DE-350B-4FFD-88E7-623E87FAEF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCFA0DE-350B-4FFD-88E7-623E87FAEF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

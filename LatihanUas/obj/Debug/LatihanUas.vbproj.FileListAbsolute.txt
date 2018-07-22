@@ -1,0 +1,9 @@
+E:\Project VBNET\LatihanUas\bin\LatihanUas.dll
+E:\Project VBNET\LatihanUas\bin\LatihanUas.pdb
+E:\Project VBNET\LatihanUas\bin\LatihanUas.xml
+E:\Project VBNET\LatihanUas\obj\Debug\ResolveAssemblyReference.cache
+E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.Resources.resources
+E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.vbproj.GenerateResource.Cache
+E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.dll
+E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.xml
+E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.pdb

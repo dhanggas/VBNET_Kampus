@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C10C52D5-F18E-44B5-9D8E-A532DAB00CD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tabungan.My.MyApplication</StartupObject>
+    <RootNamespace>Tabungan</RootNamespace>
+    <AssemblyName>Tabungan</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tabungan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tabungan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbtabunganDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbtabunganDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="f_CariSiswa.Designer.vb">
+      <DependentUpon>f_CariSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_CariSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_LihatPengguna.Designer.vb">
+      <DependentUpon>f_LihatPengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_LihatPengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_Login.Designer.vb">
+      <DependentUpon>f_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_MenuUtama.Designer.vb">
+      <DependentUpon>f_MenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_DataSiswa.Designer.vb">
+      <DependentUpon>f_DataSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_DataSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_Pengambilan.Designer.vb">
+      <DependentUpon>f_Pengambilan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_Pengambilan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_PenggunaControl.Designer.vb">
+      <DependentUpon>f_PenggunaControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_PenggunaControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_PrintSiswa.Designer.vb">
+      <DependentUpon>f_PrintSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_PrintSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_ReportAmbilDate.Designer.vb">
+      <DependentUpon>f_ReportAmbilDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_ReportAmbilDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_ReportSetorDate.Designer.vb">
+      <DependentUpon>f_ReportSetorDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_ReportSetorDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_Setoran.Designer.vb">
+      <DependentUpon>f_Setoran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_Setoran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_TambahPengguna.Designer.vb">
+      <DependentUpon>f_TambahPengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f_TambahPengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modul_Koneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="f_CariSiswa.resx">
+      <DependentUpon>f_CariSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_LihatPengguna.resx">
+      <DependentUpon>f_LihatPengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_Login.resx">
+      <DependentUpon>f_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_MenuUtama.resx">
+      <DependentUpon>f_MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_DataSiswa.resx">
+      <DependentUpon>f_DataSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_Pengambilan.resx">
+      <DependentUpon>f_Pengambilan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_PenggunaControl.resx">
+      <DependentUpon>f_PenggunaControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_PrintSiswa.resx">
+      <DependentUpon>f_PrintSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_ReportAmbilDate.resx">
+      <DependentUpon>f_ReportAmbilDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_ReportSetorDate.resx">
+      <DependentUpon>f_ReportSetorDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_Setoran.resx">
+      <DependentUpon>f_Setoran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_TambahPengguna.resx">
+      <DependentUpon>f_TambahPengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAmbilDate.rdlc" />
+    <EmbeddedResource Include="ReportSetorDate.rdlc" />
+    <EmbeddedResource Include="ReportSiswaTxt.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="dbtabunganDataSet.xsc">
+      <DependentUpon>dbtabunganDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbtabunganDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbtabunganDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbtabunganDataSet.xss">
+      <DependentUpon>dbtabunganDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power107.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close7 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users149.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-network14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiple25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\link23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer-Network-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
