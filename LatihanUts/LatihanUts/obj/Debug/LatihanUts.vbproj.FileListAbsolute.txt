@@ -8,3 +8,14 @@ E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.vbproj.GenerateResou
 E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.exe
 E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.xml
 E:\Project VBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.pdb
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.exe
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.xml
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.pdb
+E:\ProjectVBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.exe
+E:\ProjectVBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.pdb
+E:\ProjectVBNET\LatihanUts\LatihanUts\bin\Debug\LatihanUts.xml
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.Form1.resources
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.Form2.resources
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.Resources.resources
+E:\ProjectVBNET\LatihanUts\LatihanUts\obj\Debug\LatihanUts.vbproj.GenerateResource.Cache

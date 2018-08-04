@@ -1,0 +1,9 @@
+E:\ProjectVBNET\UAS\bin\UAS.dll
+E:\ProjectVBNET\UAS\bin\UAS.pdb
+E:\ProjectVBNET\UAS\bin\UAS.xml
+E:\ProjectVBNET\UAS\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\UAS\obj\Debug\UAS.Resources.resources
+E:\ProjectVBNET\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\UAS\obj\Debug\UAS.dll
+E:\ProjectVBNET\UAS\obj\Debug\UAS.xml
+E:\ProjectVBNET\UAS\obj\Debug\UAS.pdb

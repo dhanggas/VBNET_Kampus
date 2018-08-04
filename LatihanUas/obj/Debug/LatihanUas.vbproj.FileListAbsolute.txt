@@ -7,3 +7,12 @@ E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.vbproj.GenerateResource.Cache
 E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.dll
 E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.xml
 E:\Project VBNET\LatihanUas\obj\Debug\LatihanUas.pdb
+E:\ProjectVBNET\LatihanUas\bin\LatihanUas.dll
+E:\ProjectVBNET\LatihanUas\bin\LatihanUas.pdb
+E:\ProjectVBNET\LatihanUas\bin\LatihanUas.xml
+E:\ProjectVBNET\LatihanUas\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\LatihanUas\obj\Debug\LatihanUas.Resources.resources
+E:\ProjectVBNET\LatihanUas\obj\Debug\LatihanUas.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\LatihanUas\obj\Debug\LatihanUas.dll
+E:\ProjectVBNET\LatihanUas\obj\Debug\LatihanUas.xml
+E:\ProjectVBNET\LatihanUas\obj\Debug\LatihanUas.pdb
