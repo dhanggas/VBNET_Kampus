@@ -1,0 +1,9 @@
+E:\ProjectVBNET\UASTerakhir\bin\UASTerakhir.dll
+E:\ProjectVBNET\UASTerakhir\bin\UASTerakhir.pdb
+E:\ProjectVBNET\UASTerakhir\bin\UASTerakhir.xml
+E:\ProjectVBNET\UASTerakhir\obj\Debug\ResolveAssemblyReference.cache
+E:\ProjectVBNET\UASTerakhir\obj\Debug\UASTerakhir.Resources.resources
+E:\ProjectVBNET\UASTerakhir\obj\Debug\UASTerakhir.vbproj.GenerateResource.Cache
+E:\ProjectVBNET\UASTerakhir\obj\Debug\UASTerakhir.dll
+E:\ProjectVBNET\UASTerakhir\obj\Debug\UASTerakhir.xml
+E:\ProjectVBNET\UASTerakhir\obj\Debug\UASTerakhir.pdb
